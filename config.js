@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://drive.google.com/uc?export=download&id=1pNggy-T_vf_FJb8M_1M4V5FsGTlMvEBP", // Music streaming URL
+        musicUrl: "https://github.com/Gaga833/audio-james/raw/refs/heads/main/James%20Arthur%20-%20Can%20I%20Be%20Him%20(Lyric%20Video).mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
