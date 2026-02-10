@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Veux-tu être ma valentine? 💝",
+    pageTitle: "Mon rayon de soleil ☀️",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,14 +22,14 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Sais tu te servir d'une souris?",                                    // First interaction
+            text: "Es-tu bonne observatrice?",                                    // First interaction
             yesBtn: "Oui",                                             // Text for "Yes" button
             noBtn: "Non",                                               // Text for "No" button
-            secretAnswer: "Oui très bien même "           // Secret hover message
+            secretAnswer: "Oui très bonne même "           // Secret hover message
         },
         second: {
             text: "A quel point es-tu jolie?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "Bien plus que ça !",                                   // Text before the percentage
             nextBtn: "Next "                                         // Text for the next button
         },
         third: {
